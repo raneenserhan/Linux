@@ -1,7 +1,7 @@
 # Linux
-HW1  
-* Q1: * B. chage –M 90 userpaul  
-      * E. passwd –x 90 userpau  
+ 
+* Q1:  B. chage –M 90 userpaul  
+       E. passwd –x 90 userpau  
 * Q2: D. chown dnelson.editors /var/opt/runme  
 * Q3: C. Execute  
 * Q4: A. Read  
